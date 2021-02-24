@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 I'm a tech enthusiast that loves designing and writing computer programs.
 Recently I've been working as a freelancer with Node.js and React.js.
 I'm also interested in Linux systems administration and functional programming.
